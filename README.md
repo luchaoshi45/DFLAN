@@ -19,8 +19,9 @@ HRSC2016 (98.86% mAP).
 
 <img src="./figures/main.png" alt="图片描述" width="1024" />
 
-
 ## Qualitative Results
+
+https://github.com/user-attachments/assets/27b916da-4ab2-4876-abb7-29923feacb1f
 
 Visual results on DOTA-v1.0 dataset.
 
